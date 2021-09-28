@@ -17,4 +17,6 @@ fun main(args:Array<String>){
     println("houseBudjet  "+total)
     var average = total/houseBudjet
     println("praveen   "+average)
+
+
 }
